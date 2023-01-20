@@ -2,7 +2,7 @@
 
 - Hi, I’m Taylan Torres;
 - I’m interested in web/software development and new technologies;
-- I’m currently improving my knowledge and study ReactJs and SpringBoot Java;
+- I’m currently improving my knowledge and study ReactJs, Angular and SpringBoot Java;
 - I’m looking to collaborate in full-Stack projects;
 
 ### Tech abilities and study in progress:
